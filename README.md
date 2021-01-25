@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-![](/ss.jpg) 
+![](/ss.jpg | width=100) 
