@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-![](/ss.jpg) {:height="50%" width="50%"}
+![](/ss.jpg) {:height="500px"}
